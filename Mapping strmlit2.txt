@@ -1,0 +1,23 @@
+year Mapping: {2016: 0, 2017: 1, 2018: 2}
+
+country Mapping: {'Kenya': 0, 'Rwanda': 1, 'Tanzania': 2, 'Uganda': 3}
+
+location_type Mapping: {'Rural': 0, 'Urban': 1}
+
+cellphone_access Mapping: {'No': 0, 'Yes': 1}
+
+household_size	
+
+age_of_respondent
+
+gender_of_respondent Mapping: {'Female': 0, 'Male': 1}
+
+relationship_with_head Mapping: {'Child': 0, 'Head of Household': 1, 'Other non-relatives': 2, 'Other relative': 3, 'Parent': 4, 'Spouse': 5}
+
+marital_status Mapping: {'Divorced/Seperated': 0, 'Dont know': 1, 'Married/Living together': 2, 'Single/Never Married': 3, 'Widowed': 4}
+
+education_level Mapping: {'No formal education': 0, 'Other/Dont know/RTA': 1, 'Primary education': 2, 'Secondary education': 3, 'Tertiary education': 4, 'Vocational/Specialised training': 5}
+
+
+job_type Mapping: {'Dont Know/Refuse to answer': 0, 'Farming and Fishing': 1, 'Formally employed Government': 2, 'Formally employed Private': 3, 'Government Dependent': 4, 'Informally employed': 5, 'No Income': 6, 'Other Income': 7, 'Remittance Dependent': 8, 'Self employed': 9}
+
